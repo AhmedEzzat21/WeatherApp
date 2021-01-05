@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "488-4881318_transparent-cloudy-clipart-transparent-background-rain-cloud-clipart.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
