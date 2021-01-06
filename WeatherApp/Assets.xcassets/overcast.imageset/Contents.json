@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "overcast.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "overcast.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
