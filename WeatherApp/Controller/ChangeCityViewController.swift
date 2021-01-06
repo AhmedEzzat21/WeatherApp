@@ -20,8 +20,6 @@ class ChangeCityViewController: UIViewController, UITextFieldDelegate {
     
     var delegate : ChangeCityDelegate?
     let weatherDataModel = WeatherDataModel()
-
-    var cities = ["Abc", "Bgd", "Cfggg", "Deutschland", "Estonia"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
